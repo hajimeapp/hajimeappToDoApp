@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>903871724481-g9gceku2vsg02t83k01k2mj3gn1ft010.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.903871724481-g9gceku2vsg02t83k01k2mj3gn1ft010</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD8bFW3Qb9JvjQN0qvaXzJIGOhvXZ6-2mo</string>
+	<key>GCM_SENDER_ID</key>
+	<string>903871724481</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.gmail.trackandfield.sk.TodoApp</string>
+	<key>PROJECT_ID</key>
+	<string>todoapp-6ac22</string>
+	<key>STORAGE_BUCKET</key>
+	<string>todoapp-6ac22.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:903871724481:ios:8879426d73bc555575cd40</string>
+	<key>FirebaseAppDelegateProxyEnabled</key>
+	<false/>
+</dict>
+</plist>
